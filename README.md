@@ -3,14 +3,14 @@
 - [🏁 Install](#install)
 - [💻 Built using](#tech)
 - [📂 Folder Structure](#folderstructure)
-- [📷 Demo Screenshots](#screenshots)
+
 
 # 📙 About <a name = "about"></a>
-Vue Do is a sample to do list using Vue.js and Vuex for state management.
+vue3-todo-list is a sample to do list using Vue.js and Vuex for state management.
 
 # 🏁 Get started <a name = "install"></a>
 ```
-git clone https://github.com/gaserashraf/Vue-Do.git
+git clone https://github.com/DudnikDmitriy/vue3-todo-list.git
 ```
 ```
 cd vue3-todo-list
@@ -50,7 +50,4 @@ npm run serve
 |       |-- README.md,
 |       |-- todoStore.js
 ```
-# 📷 Demo Screenshots
-<div name="screenshots" >
-    <img src="screenshots/vueDo.PNG" width="100%" height="100%" />
-</div>
+
