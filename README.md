@@ -13,7 +13,7 @@ Vue Do is a sample to do list using Vue.js and Vuex for state management.
 git clone https://github.com/gaserashraf/Vue-Do.git
 ```
 ```
-cd Vue-Do
+cd vue3-todo-list
 ```
 ```
 npm install
